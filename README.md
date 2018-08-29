@@ -10,6 +10,8 @@ You will find every version documented as a step-by-step, gradual development of
 
 The basics of understanding the UI and UX were taught from version 7. 
 
+___
+
 
 ### Notes 🗒
 
@@ -18,6 +20,8 @@ The skill of refactoring played an important role throughout the course.
 Functional programming and working with the DOM and HTML were the main focus. 
 
 'Escaping from the Console' was one of the most interesting parts of the course. 
+
+___
 
 
 ### Links 🔧
